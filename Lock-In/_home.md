@@ -9,7 +9,7 @@ Dec 10, 2022
 ---
 
 
-[[BOC](BOC.md)
+[BOC](BOC.md)
 
 [Bylaws and Risk Management](Risk_Management.md)
 
