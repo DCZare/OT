@@ -9,25 +9,25 @@ Dec 10, 2022
 ---
 
 
-[[BOC]]
+[[BOC](BOC.md)
 
-[[Risk Management]]
+[Bylaws and Risk Management](Risk_Management.md)
 
-[[Community Service]]
+[Community Service](Community_Service.md)
 
-[[Brotherhood]]
+[Brotherhood](Brotherhood.md)
 
-[[Construction]]
+[Construction](Construction.md)
 
-[[Design]]
+[Design](Design.md)
 
-[[Fundraising]]
+[Fundraising](Fundraising.md)
 
-[[Professional Development]]
+[Professional Development](Professional_Development.md)
 
-[[Diversity]]
+[Diversity](Diversity.md)
 
-[[Media]]
+[Media](Media.md)
 
 ---
 
@@ -35,11 +35,11 @@ Dec 10, 2022
 
 ---
 
-[[Pledging]]
+[Pledging](Pledging.md)
 
-[[Website]]
+[Website](Website.md)
 
-[[Finance]]
+[Finance](Finance.md)
 
 ---
 
@@ -56,7 +56,8 @@ Committe Heads/Eboard should get editing privledges for the calender
 
 SurveyMonkey to gauge committee availability
 
-**Never again**, will elections include weekly play-by-plays for PMs.
+**Never again**, will elections go through weekly play-by-plays for PMs.
+- Yes they should exist, No we dont need to go through them line by line
 - Only general ideals and major milestones
 
 [[Fish bowl]]
