@@ -13,10 +13,37 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Animatronic/Animatronic.md",
+                "file": "Construction/Animatronic/Animatronic.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "83f3148f82353770",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Community Service/Jan-7-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "740256f8ff8b3b68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3e9cf98871c87fb",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -69,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6e2652ae1ca4d5dc",
@@ -85,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Animatronic/Animatronic.md",
+                "file": "Community Service/Jan-7-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Animatronic/Animatronic.md",
+                "file": "Community Service/Jan-7-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Animatronic/Animatronic.md"
+                "file": "Community Service/Jan-7-2023.md"
               }
             }
           }
@@ -136,6 +164,19 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c23b5d2ade82fe7c",
-  "lastOpenFiles": []
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "83f3148f82353770",
+  "lastOpenFiles": [
+    "Construction/Animatronic/Animatronic.md"
+  ]
 }
