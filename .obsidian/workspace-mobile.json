@@ -119,6 +119,9 @@
     ],
     "currentTab": 0
   },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
   "active": "d9580457ffbad69c",
   "lastOpenFiles": [
     "Wafflebot/solenoid notes.md",
